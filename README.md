@@ -27,3 +27,8 @@ Through this analysis, the project aims to:
  Apply SQL functions and techniques on a real dataset to strengthen data analysis skills.
 
  Demonstrate the ability to solve analytical problems using efficient SQL queries.
+
+
+ ## Dataset
+ The data for this project is sourced from the Kaggle dataset:
+ ### Dataset link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
