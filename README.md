@@ -13,3 +13,17 @@ This project is useful for:
   > Practicing intermediate-to-advanced SQL concepts (e.g., GROUP BY, UNNEST, SPLIT_PART, CAST, subqueries)
  > Exploring real-world datasets
  > Building an analytics portfolio
+
+
+## Objective
+The primary objective of this project is to analyze Netflix's content catalog using SQL by answering a variety of real-world data-driven questions. This includes identifying patterns in content type, release years, genres, countries of production, durations, and key contributors such as directors and actors.
+
+Through this analysis, the project aims to:
+
+ Gain insights into Netflix’s content distribution across years and countries.
+
+ Understand user engagement patterns based on content types and genres.
+
+ Apply SQL functions and techniques on a real dataset to strengthen data analysis skills.
+
+ Demonstrate the ability to solve analytical problems using efficient SQL queries.
