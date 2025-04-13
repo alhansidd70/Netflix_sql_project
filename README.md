@@ -36,7 +36,8 @@ Through this analysis, the project aims to:
 
 ## Schema
 
-<\pre>```DROP TABLE IF EXISTS netflix;
+``` sql
+DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
     show_id      VARCHAR(5),
@@ -51,4 +52,4 @@ CREATE TABLE netflix
     duration     VARCHAR(15),
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
-);```<\pre>
+);```
